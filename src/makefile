@@ -1,4 +1,4 @@
-COMPILER=gfortran
+COMPILER = gfortran
 
 FLAGS = 
 
